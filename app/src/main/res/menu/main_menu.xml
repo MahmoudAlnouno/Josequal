@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_abdail_to_mukhtar"
+        android:title="Abdail To Mukhtar" />
+    <item
+        android:id="@+id/menu_istklal_to_abdali"
+        android:title="istklal To Abdali" />
+    <item
+        android:id="@+id/menu_mukhtar_to_istklal"
+        android:title="Mukhtar To istklal " />
+</menu>
